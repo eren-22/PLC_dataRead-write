@@ -1,0 +1,13 @@
+C:\Users\eren1\OneDrive\Masaüstü\CsharpPLC\Veri_Okuma_Yazma\Veri_Okuma_Yazma\bin\Debug\Veri_Okuma_Yazma.exe.config
+C:\Users\eren1\OneDrive\Masaüstü\CsharpPLC\Veri_Okuma_Yazma\Veri_Okuma_Yazma\bin\Debug\Veri_Okuma_Yazma.exe
+C:\Users\eren1\OneDrive\Masaüstü\CsharpPLC\Veri_Okuma_Yazma\Veri_Okuma_Yazma\bin\Debug\Veri_Okuma_Yazma.pdb
+C:\Users\eren1\OneDrive\Masaüstü\CsharpPLC\Veri_Okuma_Yazma\Veri_Okuma_Yazma\obj\Debug\Veri_Okuma_Yazma.csproj.AssemblyReference.cache
+C:\Users\eren1\OneDrive\Masaüstü\CsharpPLC\Veri_Okuma_Yazma\Veri_Okuma_Yazma\obj\Debug\Veri_Okuma_Yazma.Form1.resources
+C:\Users\eren1\OneDrive\Masaüstü\CsharpPLC\Veri_Okuma_Yazma\Veri_Okuma_Yazma\obj\Debug\Veri_Okuma_Yazma.Properties.Resources.resources
+C:\Users\eren1\OneDrive\Masaüstü\CsharpPLC\Veri_Okuma_Yazma\Veri_Okuma_Yazma\obj\Debug\Veri_Okuma_Yazma.csproj.GenerateResource.cache
+C:\Users\eren1\OneDrive\Masaüstü\CsharpPLC\Veri_Okuma_Yazma\Veri_Okuma_Yazma\obj\Debug\Veri_Okuma_Yazma.csproj.CoreCompileInputs.cache
+C:\Users\eren1\OneDrive\Masaüstü\CsharpPLC\Veri_Okuma_Yazma\Veri_Okuma_Yazma\obj\Debug\Veri_Okuma_Yazma.exe
+C:\Users\eren1\OneDrive\Masaüstü\CsharpPLC\Veri_Okuma_Yazma\Veri_Okuma_Yazma\obj\Debug\Veri_Okuma_Yazma.pdb
+C:\Users\eren1\OneDrive\Masaüstü\CsharpPLC\Veri_Okuma_Yazma\Veri_Okuma_Yazma\bin\Debug\EasyModbus.dll
+C:\Users\eren1\OneDrive\Masaüstü\CsharpPLC\Veri_Okuma_Yazma\Veri_Okuma_Yazma\bin\Debug\EasyModbus.xml
+C:\Users\eren1\OneDrive\Masaüstü\CsharpPLC\Veri_Okuma_Yazma\Veri_Okuma_Yazma\obj\Debug\Veri_Oku.283D3E7F.Up2Date
